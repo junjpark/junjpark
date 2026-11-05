@@ -20,6 +20,11 @@ A chess.com-style automated game review for League of Legends. It estimates each
 - Resumable, rate-limited Riot API pipeline: **~20,000 ranked matches → ~600,000 game states**, with each match checked against Riot's official end-of-game totals
 - Calibrated XGBoost win-probability model: **0.8-point average calibration error on 5,739 unseen matches**, with pass/fail release criteria fixed before training
 - Hypothesis-driven feature work: found that gold held by one player is worth **11–14 pts** more than the same lead spread across the team, then confirmed it out of sample
+- Harness-engineered for AI coding agents (Claude Code): a short `CLAUDE.md` context map of hard constraints, pointing agents to the right doc only when a task needs it
+- A Claude Code hook blocks irreversible agent actions (git, data collection, deleting data or models, the one-time holdout evaluation); tests enforce the review's wording rules, and golden-output tests freeze review output
+- Every task starts with a contract (objective, what must not change, evidence for "done", what needs owner approval); every session ends with a change receipt in `docs/sessions.md`
+- Every failure is logged in `docs/failures.md` with the new test, hook or CI step that now catches it
+- Each analysis has its contract committed before any code, then passes an automated gate and an independent reviewer agent that sees the contract, script and results but not the conclusions
 #### [rebalance](https://github.com/junjpark/rebalance) · New Balance Hackathon · Gemini 2.5 Flash
 A computer-vision tool for diagnosing shoe damage, prototyped in **3 hours**.
 - Classifies shoe damage with **confidence-scored bounding-box localization** using Gemini 2.5 Flash
