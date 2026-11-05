@@ -7,7 +7,7 @@ I like building data-driven tools that hold up under real data like calibrated m
 **I'm looking for new-grad software engineering and ML roles starting in 2027.**
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Junyoung_(Justin)_Park-0A66C2?style=flat)](https://www.linkedin.com/in/junyoung-justin-park/)
-[![Email](https://img.shields.io/badge/Email-you%40example.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:junjpark02@gmail.com)
+[![Email](https://img.shields.io/badge/Email-junjpark02@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:junjpark02@gmail.com)
  
 ---
  
