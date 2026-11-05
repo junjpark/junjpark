@@ -11,7 +11,7 @@ I like building data-driven tools that hold up under real data like calibrated m
  
 ---
  
-### Featured projects
+### Currently working on
  
 #### [lol-game-review](https://github.com/junjpark/lol-game-review) · Python · XGBoost
 A chess.com-style automated game review for League of Legends. It estimates each team's win probability minute by minute, flags the moments that swung the game, and separates the player's own plays from what happened elsewhere on the map.
@@ -23,19 +23,7 @@ A chess.com-style automated game review for League of Legends. It estimates each
 - Every task starts with a contract (objective, what must not change, evidence for "done", what needs owner approval); every session ends with a change receipt in `docs/sessions.md`
 - Every failure is logged in `docs/failures.md` with the new test, hook or CI step that now catches it
 - Each analysis has its contract committed before any code, then passes an automated gate and an independent reviewer agent that sees the contract, script and results but not the conclusions
-#### [rebalance](https://github.com/junjpark/rebalance) · New Balance Hackathon · Gemini 2.5 Flash
-A computer-vision tool for diagnosing shoe damage, prototyped in **3 hours**.
-- Classifies shoe damage with **confidence-scored bounding-box localization** using Gemini 2.5 Flash
-- Heatmap dashboard across **6 wear zones** for personalized fit recommendations, repurposed as an automated return-assessment engine for the **60M+ shoppers** without access to in-store 3D scanning
-#### [GrubU](https://github.com/junjpark/GrubU) · Swift · Firebase
-An iOS marketplace for campus meal points. Students who are short on meal points request meals from students with a surplus and pay them back in USD.
-- Native Swift app backed by Firebase (Firestore and Cloud Functions)
-- Built but never launched because of university dining policy
-#### [cory](https://github.com/junjpark/cory) · React · FastAPI · PostgreSQL · team project
-An AI choreography-analysis tool for dancers. It skeletonizes an uploaded dance video and supports notes left directly on the video, mirrored practice views, music sync, and similarity scoring of a practice video against the original.
- 
----
- 
+  
 ### Tech
  
 **Languages**
@@ -95,4 +83,4 @@ An AI choreography-analysis tool for dancers. It skeletonizes an uploaded dance 
 ---
 
 ### Outside of cs
-🎮 Gaming - I was in the Top 50 best Overwatch players in the nation · 🎻 Classical music - I played viola for 10 years· ⚽ Soccer - Barca fan
+Gaming - I was in the Top 50 best Overwatch players in the nation · Classical music - I played viola for 10 years· Soccer - Barca fan
