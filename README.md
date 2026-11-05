@@ -2,14 +2,12 @@
  
 I study **Computer Science + Physics at Washington University in St. Louis** and graduate in **May 2027**.
 This semester I'm abroad at **HKUST**, taking AI/ML coursework.
-I like building data-driven tools that hold up under real data: calibrated models, validated pipelines and honest evaluation.
+I like building data-driven tools that hold up under real data like calibrated models, validated pipelines and honest evaluation.
  
 **I'm looking for new-grad software engineering and ML roles starting in 2027.**
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Junyoung_(Justin)_Park-0A66C2?style=flat)](https://www.linkedin.com/in/junyoung-justin-park/)
-<!-- Optional: add an email badge
-[![Email](https://img.shields.io/badge/Email-you%40example.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:you@example.com)
--->
+[![Email](https://img.shields.io/badge/Email-you%40example.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:junjpark02@gmail.com)
  
 ---
  
