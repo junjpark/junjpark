@@ -60,5 +60,5 @@ An AI choreography-analysis tool for dancers. It skeletonizes an uploaded dance 
 
 ---
 
-### Outside of code
-🎮 Gaming (hence lol-game-review) · 🎻 Classical music · ⚽ Soccer
+### Outside of cs
+🎮 Gaming - I was in the Top 50 best Overwatch players in the nation · 🎻 Classical music - I played viola for 10 years· ⚽ Soccer - Barca fan
